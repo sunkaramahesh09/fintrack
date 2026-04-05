@@ -6,11 +6,8 @@
 
 ## 🖥️ Live Demo
 
-Deploy to Vercel/Netlify in 30 seconds:
-```bash
-npm run build
-# Drag the `dist/` folder to https://vercel.com/new or https://app.netlify.com/drop
-```
+**👉 [https://fintrack-finance-manage.vercel.app/](https://fintrack-finance-manage.vercel.app/)**
+
 Or run locally — see setup instructions below.
 
 ---
